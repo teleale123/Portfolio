@@ -57,7 +57,7 @@
 
 Here are some of the projects I've worked on:
 
-### 1. [Clinic Management System](https://github.com/username/clinic-management-system)
+### 1. [Clinic Management System](https://github.com/teleale123/clinic-management-system)
 
    - **Description**: This project is a Clinic Management System that allows clinics to manage patient information, appointments, billing, and more. It is built to streamline the clinic's daily operations.
    - **Technologies Used**: Java, Spring Boot, MySQL, Thymeleaf
