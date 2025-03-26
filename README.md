@@ -1,8 +1,8 @@
-# Hello, I'm Temesgen Abera                                                                      
-##### System Administrator || Data Scientist
+# Hello, I'm Data Scientist and System Administrator                                                                   
 
 ## Introduction
 - I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+  
 ## Objective
 - As a dedicated System Administrator and Data Scientist at Mizan-Tepi University, I aim to leverage my expertise in managing and optimizing IT infrastructure alongside my data-driven insights to drive efficient system operations and informed decision-making. 
 
@@ -11,7 +11,7 @@
 ## Education
 - M.Sc. in Computer Science & Engineering	| Jawaharlal Nehiru Technological University Hyderabad, India (_August 2020_)
             		
-- B.Sc. in Computer Science | Debre Berhan University, Ethiopia (_June 2016_)
+- B.Sc. in Computer Science                     | Debre Berhan University, Ethiopia (_June 2016_)
 
 ## Work Experience
 **Lecturer Mizan-Tepi University, Ethiopia (_October 2016-Present_)**
