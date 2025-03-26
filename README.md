@@ -55,42 +55,36 @@
 
 ## My Projects
 
-Here are some of the projects I've worked on:
+Welcome to my GitHub profile! Below are some of the projects I have worked on. Each project serves a unique purpose, and they are built using a variety of technologies. Feel free to explore them.
 
-### 1. [Clinic Management System](https://github.com/teleale123/clinic-management-system)
+---
 
-   - **Description**: This project is a Clinic Management System that allows clinics to manage patient information, appointments, billing, and more. It is built to streamline the clinic's daily operations.
-   - **Technologies Used**: Java, Spring Boot, MySQL, Thymeleaf
-   - **Features**:
-     - User management (Admin, Doctors, and Receptionists).
-     - Appointment scheduling.
-     - Patient records and history management.
-     - Billing system integration.
-   - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
-   - **GitHub Repository**: [Clinic Management System Repository](https://github.com/username/clinic-management-system)
+### Projects Overview
 
-### 2. [SIMS (Student Information Management System)](https://github.com/username/sims)
+| Project Name                                | Description                                                                                                                                 | Technologies Used                           | Link to Repository                                                                                   |
+|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Dormitory Management System**            | A web-based application for managing student accommodations, including room assignments and occupancy tracking.                              | Java, Spring Boot, MySQL, Thymeleaf         | [View Repository](https://github.com/username/dormitory-management-system)                           |
+| **Online Rental System**                    | An online system for renting various items (e.g., cars, apartments) with payment integration and rental tracking.                          | PHP, MySQL, Bootstrap                      | [View Repository](https://github.com/username/online-rental-system)                                  |
+| **Web-based Distance Education System**    | A platform to deliver educational content, track student progress, and manage teacher-student interaction.                                 | HTML, CSS, JavaScript, Node.js             | [View Repository](https://github.com/username/distance-education-system)                            |
+| **Mobile Assisted Maternal Health System** | A mobile application providing personalized maternal health advice and reminders for expecting mothers.                                     | Java, Android SDK, Firebase                | [View Repository](https://github.com/username/maternal-health-advisory-system)                      |
 
-   - **Description**: SIMS is an integrated software system used by educational institutions to manage student data, including enrollment, attendance, grades, and performance reports.
-   - **Technologies Used**: PHP, MySQL, JavaScript, Bootstrap
-   - **Features**:
-     - Student registration and profile management.
-     - Attendance tracking and report generation.
-     - Grade management and performance analysis.
-     - Teacher-student communication features.
-   - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
-   - **GitHub Repository**: [SIMS Repository](https://github.com/username/sims)
+---
 
-### 3. [Charity System](https://github.com/username/charity-system)
+## Contact
 
-   - **Description**: A Charity Management System designed to help non-profits manage donations, fundraising campaigns, and volunteer data. This system ensures a streamlined way to manage all aspects of a charity organization.
-   - **Technologies Used**: Node.js, Express.js, MongoDB, HTML/CSS
-   - **Features**:
-     - Donation tracking and receipt generation.
-     - Campaign management and event tracking.
-     - Volunteer registration and task assignment.
-   - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
-   - **GitHub Repository**: [Charity System Repository](https://github.com/username/charity-system)
+If you have any questions or want to collaborate, feel free to reach out to me:
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+## License
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+
+
    
 ## Contact & Social Links
 
