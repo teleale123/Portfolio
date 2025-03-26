@@ -1,5 +1,5 @@
 # Hello, I'm Data Scientist                                                                
-##### <p align="right">[Download my CV](https://drive.google.com/uc?export=download&id=1nXEkPvzUbqR1PpJDo9bGz7QWgDXxlRVr) </p> #####
+##### [Download my CV](https://drive.google.com/uc?export=download&id=1jo4VlJkAOyT_gQrCx5iK-t0gvD0TJqOA) #####
 ## Introduction
 - I am a Computer Science graduate with experience as a Lecturer, eLearning Director, and System Administrator, with a profound interest in technology and a dedication to solving complex problems.
   
