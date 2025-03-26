@@ -1,5 +1,5 @@
-# Hello, I'm Data Scientist and System Administrator                                                                   
-
+# Hello, I'm Data Scientist                                                                
+##### <p align="right">[Download my CV](https://drive.google.com/uc?export=download&id=1nXEkPvzUbqR1PpJDo9bGz7QWgDXxlRVr) </p> #####
 ## Introduction
 - I am a Computer Science graduate with experience as a Lecturer, eLearning Director, and System Administrator, with a profound interest in technology and a dedication to solving complex problems.
   
@@ -52,6 +52,46 @@
 
 1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023
 2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023
+
+## My Projects
+
+Here are some of the projects I've worked on:
+
+### 1. [Clinic Management System](https://github.com/username/clinic-management-system)
+
+   - **Description**: This project is a Clinic Management System that allows clinics to manage patient information, appointments, billing, and more. It is built to streamline the clinic's daily operations.
+   - **Technologies Used**: Java, Spring Boot, MySQL, Thymeleaf
+   - **Features**:
+     - User management (Admin, Doctors, and Receptionists).
+     - Appointment scheduling.
+     - Patient records and history management.
+     - Billing system integration.
+   - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
+   - **GitHub Repository**: [Clinic Management System Repository](https://github.com/username/clinic-management-system)
+
+### 2. [SIMS (Student Information Management System)](https://github.com/username/sims)
+
+   - **Description**: SIMS is an integrated software system used by educational institutions to manage student data, including enrollment, attendance, grades, and performance reports.
+   - **Technologies Used**: PHP, MySQL, JavaScript, Bootstrap
+   - **Features**:
+     - Student registration and profile management.
+     - Attendance tracking and report generation.
+     - Grade management and performance analysis.
+     - Teacher-student communication features.
+   - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
+   - **GitHub Repository**: [SIMS Repository](https://github.com/username/sims)
+
+### 3. [Charity System](https://github.com/username/charity-system)
+
+   - **Description**: A Charity Management System designed to help non-profits manage donations, fundraising campaigns, and volunteer data. This system ensures a streamlined way to manage all aspects of a charity organization.
+   - **Technologies Used**: Node.js, Express.js, MongoDB, HTML/CSS
+   - **Features**:
+     - Donation tracking and receipt generation.
+     - Campaign management and event tracking.
+     - Volunteer registration and task assignment.
+   - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
+   - **GitHub Repository**: [Charity System Repository](https://github.com/username/charity-system)
+
    
 ## Contact & Social Links
 
