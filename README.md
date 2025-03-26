@@ -1,7 +1,7 @@
 # Hello, I'm Data Scientist and System Administrator                                                                   
 
 ## Introduction
-- I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+- I am a Computer Science graduate with experience as a Lecturer, eLearning Director, and System Administrator, with a profound interest in technology and a dedication to solving complex problems.
   
 ## Objective
 - As a dedicated System Administrator and Data Scientist at Mizan-Tepi University, I aim to leverage my expertise in managing and optimizing IT infrastructure alongside my data-driven insights to drive efficient system operations and informed decision-making. 
