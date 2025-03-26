@@ -91,7 +91,6 @@ Here are some of the projects I've worked on:
      - Volunteer registration and task assignment.
    - **Demo**: [Live Demo](https://example.com/demo) *(if applicable)*
    - **GitHub Repository**: [Charity System Repository](https://github.com/username/charity-system)
-
    
 ## Contact & Social Links
 
