@@ -52,4 +52,13 @@
 
 1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023
 2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023
+   
+## Contact & Links
+
+- **Email:** [yourname@example.com](mailto:yourname@example.com)
+- **GitHub:** [GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Website:** [yourwebsite.com](https://yourwebsite.com)
+
+
 
