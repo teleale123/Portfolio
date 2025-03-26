@@ -2,16 +2,12 @@ title: Temesgen Abera
 logo: /assets/img/temu1.png
 description: text below image
 show_downloads: true
-
-
-contact:
-  email: yourname@example.com
-  phone: +1234567890
-  location: City, Country
-  github: https://github.com/yourusername
 social_links:
   - name: Twitter
     url: https://twitter.com/yourusername
   - name: LinkedIn
     url: https://linkedin.com/in/yourusername
+  - name: GitHub
+    url: https://github.com/yourusername
+
 theme: jekyll-theme-minimal
