@@ -1,15 +1,5 @@
 title:  Temesgen Abera
 logo: /assets/img/temu2.png
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
-title: "My Awesome Portfolio"
-description: "This is the portfolio of [Your Name], showcasing my work and skills."
-baseurl: "/"
-social:
-  github: "https://github.com/yourusername"
-  linkedin: "https://linkedin.com/in/yourusername"
-  twitter: "https://twitter.com/yourusername"
-contact:
-  email: "yourname@example.com"
-  phone: "+1234567890"
-  cv: "https://drive.google.com/uc?export=download&id=1a2b3c4d5e6f7g8h9i0j"
+
