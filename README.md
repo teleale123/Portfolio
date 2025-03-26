@@ -48,12 +48,7 @@
 
 - Udemy: [Udemy Data Analysis with Pandas and Python.](https://www.ude.my/UC-ef9eb147-35e2-413d-bb75-485dc2790189)
 
-## Publications
-
-1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023
-2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023
-
-## My Projects
+## Projects
 
 Welcome to my GitHub profile! Below are some of the projects I have worked on. Each project serves a unique purpose, and they are built using a variety of technologies. Feel free to explore them.
 
@@ -69,23 +64,10 @@ Welcome to my GitHub profile! Below are some of the projects I have worked on. E
 | **Mobile Assisted Maternal Health System** | A mobile application providing personalized maternal health advice and reminders for expecting mothers.                                     | Java, Android SDK, Firebase                | [View Repository](https://github.com/username/maternal-health-advisory-system)                      |
 
 ---
+## Publications
 
-## Contact
-
-If you have any questions or want to collaborate, feel free to reach out to me:
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-## License
-
-This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
-
-
-   
+1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023
+2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023
 ## Contact & Social Links
 
 | **Method**       | **Link/Details**                                      |
@@ -98,6 +80,7 @@ This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE
 | **Twitter**      | [Twitter](https://twitter.com/temesgenabera)           |
 
 Feel free to reach out to me if you have any questions!
-
+## License
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
 
 
