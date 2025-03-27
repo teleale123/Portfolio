@@ -165,9 +165,9 @@ Welcome to my GitHub profile! Below are some of the projects I have worked on. E
   
 ## Publications
 
-**1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:KlAtU1dfN6UC)**
+*[1]. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:kNdYIx-mwKoC)*
    
-**2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:kNdYIx-mwKoC)**
+*[2]. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023[View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:KlAtU1dfN6UC)*
    
 ## Contact & Social Links
 
