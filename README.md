@@ -154,6 +154,7 @@ Welcome to my GitHub profile! Below are some of the projects I have worked on. E
 
 ---
 ## Certeficates
+
 - Arizona State University: [System administrator I](https://lms.courses.ethernet.edu.et/certificates/86928f7accef45aaa2d510cd3656e187)
   
 - Arizona State University: [System administrator II](https://lms.courses.ethernet.edu.et/certificates/d147e5adfe9d483faa148a98a52ec2e5)
@@ -161,10 +162,13 @@ Welcome to my GitHub profile! Below are some of the projects I have worked on. E
 - Udemy: [Udemy Complete Data Science Bootcamp.](https://www.ude.my/UC-edc02607-89da-4056-b247-46e31c46c711)
 
 - Udemy: [Udemy Data Analysis with Pandas and Python.](https://www.ude.my/UC-ef9eb147-35e2-413d-bb75-485dc2790189)
+  
 ## Publications
 
-1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:KlAtU1dfN6UC)
-2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:kNdYIx-mwKoC)
+**1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:KlAtU1dfN6UC)**
+   
+**2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:kNdYIx-mwKoC)**
+   
 ## Contact & Social Links
 
 | **Method**       | **Link/Details**                                      |
