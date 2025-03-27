@@ -163,8 +163,8 @@ Welcome to my GitHub profile! Below are some of the projects I have worked on. E
 - Udemy: [Udemy Data Analysis with Pandas and Python.](https://www.ude.my/UC-ef9eb147-35e2-413d-bb75-485dc2790189)
 ## Publications
 
-1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023
-2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023
+1. Deep learning hyperparameter’s impact on potato disease detectionDeep learning hyperparameter’s impact on potato disease detection. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:KlAtU1dfN6UC)
+2. Customer churn prediction using machine-learning techniques in the case of commercial bank of Ethiopia. The Scientific Temper • Sep 26, 2023 [View Publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IHUhi4gAAAAJ&citation_for_view=IHUhi4gAAAAJ:kNdYIx-mwKoC)
 ## Contact & Social Links
 
 | **Method**       | **Link/Details**                                      |
@@ -172,7 +172,6 @@ Welcome to my GitHub profile! Below are some of the projects I have worked on. E
 | **Email**        | [telealedbu@gmail.com](mailto:telealedbu@gmail.com)    |
 | **Phone**        | +251924976693                                       |
 | **GitHub**       | [GitHub](https://github.com/teleale123)             |
-| **Website**      | [Personal Website](https://temesgenabera.com)           |
 | **LinkedIn**     | [LinkedIn](https://linkedin.com/in/temesgenabera)      |
 | **Twitter**      | [Twitter](https://twitter.com/temesgenabera)           |
 
